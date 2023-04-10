@@ -8,9 +8,9 @@ Express.js 4.17.2
 
 VueJS 3.2.13
 
-Node.js 16.13.2
+Vuetify 3
 
-Bootstrap 5
+Node.js 16.13.2
 
 **Commands :**
 
